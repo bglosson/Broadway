@@ -6,9 +6,12 @@ h1 {
   }
 
 body {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-  background-repeat: no-repeat;
-  background-position: top center;
   text-align: center;
   color: black;
+}
+.header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
 }

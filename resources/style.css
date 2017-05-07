@@ -31,3 +31,7 @@ body {
   background-color: dimgray;
   text-align: left;
 }
+
+p.middle, p.bottom {
+  font-size: 30px;
+}

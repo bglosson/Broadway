@@ -5,6 +5,11 @@ h1 {
   font-weight: bold;
   }
 
+#satellite {
+  background-color: black;
+  color: white;
+}
+
 body {
   text-align: center;
   color: black;
@@ -32,6 +37,19 @@ body {
   text-align: left;
 }
 
-p.middle, p.bottom {
-  font-size: 30px;
+a:link, a:visited {
+  color: white;
+}
+
+a:hover {
+  color: pink;
+}
+
+.middle p, .bottom p{
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
 }
